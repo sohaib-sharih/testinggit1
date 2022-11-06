@@ -9,3 +9,4 @@ const sum = x + y
 console.log(`This is the total of sum ${sum}`)
 
 // testing
+// testing two
